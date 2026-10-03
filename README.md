@@ -206,3 +206,17 @@ disks.
 | A Bash scripting | ☐ | | ☐ |
 | Mock exam 1 — score: ___ / 100 | | | ☐ |
 | Mock exam 2 — score: ___ / 100 | | | ☐ |
+
+---
+
+## License
+
+© 2026 Costel Iacob. This course is licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+You may share and adapt it for any purpose, including commercially, as long as you give
+credit — for example: *"Based on LFCS Preparation by Costel Iacob,
+https://github.com/Costel03/lfcs-course, CC BY 4.0"* — and indicate what you changed.
+
+LFCS is a certification of the Linux Foundation. This course is independent and not
+endorsed by or affiliated with the Linux Foundation.
